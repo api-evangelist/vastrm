@@ -1,7 +1,23 @@
 aid: vastrm
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vastrm.png
 name: Vastrm
-description: Vastrm is a company surfaced as a portfolio company of a16z, y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Vastrm is a custom-tailored menswear e-commerce company selling made-to-fit
+  polo shirts with 24 different fits and sizes plus additional free adjustments, an
+  online design-your-own configurator, corporate solutions for businesses, and a retail
+  partners program. Vastrm is a Y Combinator and a16z-backed company tracked in the
+  API Evangelist network; it operates a consumer storefront at vastrm.com and publishes
+  no public developer or API surface.
 url: https://raw.githubusercontent.com/api-evangelist/vastrm/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +26,38 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Apparel
+- Fashion
+- eCommerce
+- Retail
+- Custom Clothing
+- Menswear
 apis: []
+common:
+- type: DomainSecurity
+  url: security/vastrm-domain-security.yml
+- type: Website
+  url: https://vastrm.com
+- type: Support
+  url: https://vastrm.com/company/contact-us
+- type: PrivacyPolicy
+  url: https://vastrm.com/company/privacy-terms
+- type: TermsOfService
+  url: https://vastrm.com/company/privacy-terms
+- type: Login
+  url: https://vastrm.com/customer/account/login
+- type: LLMsTxt
+  url: llms/vastrm-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com

@@ -1,0 +1,25 @@
+# Vastrm
+
+> Vastrm is a custom-tailored menswear e-commerce company selling made-to-fit polo shirts with 24 different fits and sizes plus additional free adjustments, an online design-your-own configurator, corporate solutions for businesses, and a retail partners program. Vastrm publishes no public developer or API surface.
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://vastrm.com (fetched 2026-07-21) -->
+
+## Company
+
+- [Website](https://vastrm.com): Vastrm storefront — custom polo shirts and the design-your-own tool
+- [Shop](https://vastrm.com/shop): Browse and buy polos
+- [Design Your Own](https://vastrm.com/polo/index/design): Online polo configurator
+- [Corporate Solutions](https://vastrm.com/corporate-solutions): Custom apparel programs for businesses
+- [Inspiration](https://vastrm.com/index/inspiration): Company origin story
+- [Retail Partners](https://vastrm.com/index/retail-partners): Retail partnerships program
+
+## Support
+
+- [Contact Us](https://vastrm.com/company/contact-us): Customer support
+- [Orders & Returns](https://vastrm.com/company/orders-returns): Order and returns policy
+- [Privacy & Terms](https://vastrm.com/company/privacy-terms): Privacy policy and terms of service
+- [Account Login](https://vastrm.com/customer/account/login): Customer account sign-in
+
+## APIs
+
+Vastrm does not publish a public API, developer portal, SDKs, or API documentation (verified 2026-07-21: no /.well-known/ catalog, no llms.txt, no GitHub organization, no packages on npm or PyPI).
