@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/vastrm/integrations
+- https://n8n.io/integrations/vastrm/
+- https://composio.dev/toolkits/vastrm
+- https://monid.ai/tools/vastrm
+checked:
+- https://composio.dev/toolkits/vastrm
+- https://monid.ai/tools/vastrm
+- https://n8n.io/integrations/vastrm/
+- https://zapier.com/apps/vastrm/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
